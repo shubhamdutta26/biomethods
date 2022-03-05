@@ -1,0 +1,13 @@
+name: biomethods-dashboard
+title: biomethods-dashboard
+username:
+account: shubhamdutta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5316949
+bundleId: 5421452
+url: https://shubhamdutta.shinyapps.io/biomethods-dashboard/
+when: 1640920562.93452
+lastSyncTime: 1640920562.93453
+asMultiple: FALSE
+asStatic: FALSE
