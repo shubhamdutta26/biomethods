@@ -1,0 +1,12 @@
+switch(input$fluor,
+       'Alexa 350' = 410.35,
+       'Alexa 405' = 1028.3,
+       'Alexa 488' = 643.4,
+       'Alexa 532' = 723.8,
+       'Alexa 555' = 1250,
+       'Alexa 594' = 819.8,
+       'Alexa 647' = 1250,
+       'Alexa 680' = 1150,
+       'Alexa 700' = 1400,
+       'Alexa 750' = 1300,
+)
